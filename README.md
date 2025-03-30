@@ -1,2 +1,2 @@
 # the_arcanet
-A more advanced rpg inspired by cryptomancer
+An advanced rpg inspired by cryptomancer, owasp, and compTIA
